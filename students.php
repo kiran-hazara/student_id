@@ -109,7 +109,7 @@ $data   = mysqli_fetch_all($result, MYSQLI_ASSOC);
                         <h4 class="fw-bold mb-1">Students Directory</h4>
                         <p class="text-muted small mb-0">View, search, and manage all registered class students</p>
                     </div>
-                    <a href="student-create.php" class="btn btn-primary d-inline-flex align-items-center gap-2">
+                    <a href="student_create.php" class="btn btn-primary d-inline-flex align-items-center gap-2">
                         <i class="bi bi-person-plus"></i>
                         <span>Add Student</span>
                     </a>
